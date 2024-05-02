@@ -1,4 +1,4 @@
-import { images } from "../data"
+import { images } from "../../data"
 import Logos from "./Logos"
 
 const FourthSection = () => {
