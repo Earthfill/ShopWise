@@ -4,7 +4,7 @@ import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { FifthSection, FirstSection, Footer, FourthSection, Logos, SecondSection, SixthSection, ThirdSection } from '../components';
-import { images } from '../../data';
+import { images } from '../data';
 
 
 const Landing = () => {
