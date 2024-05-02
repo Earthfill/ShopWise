@@ -1,3 +1,5 @@
+import { TbCopyright } from "react-icons/tb"
+
 const Footer = () => {
   return (
     <div className="bg-black text-white p-10">
@@ -40,6 +42,10 @@ const Footer = () => {
           <div>Twitter</div>
           <div>YouTube</div>
         </div>
+      </div>
+      <hr />
+      <div className="flex items-center gap-3 pt-5">
+        <TbCopyright /> Copyright 1986. All Rights Reserved.
       </div>
     </div>
   )

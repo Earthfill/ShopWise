@@ -16,7 +16,7 @@ const FirstSection = () => {
     <section data-theme="luxury" className="bg-secondary text-white pb-10">
       <div className="align-element">
         <div className="text-center text-2xl mx-10 leading-relaxed md:text-3xl md:mx-0 font-bold py-16">Here's the process to begin your shopping</div>
-        <div className="grid grid-cols-4 justify-items-center md:mx-80 pb-5">
+        <div className="grid grid-cols-4 justify-items-center md:mx-40 lg:mx-80 pb-5">
           <button
             className={`font-semibold ${activeTab === 1 ? "bg-white text-secondary button-style" : "hover:bg-slate-700 hover:button-style"}`}
             onClick={() => handleTabClick(1)}
