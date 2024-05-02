@@ -46,13 +46,13 @@ const Landing = () => {
 
   return (
     <main>
-      <div className='md:grid'>
-        <div className='align-element flex flex-col md:flex-row justify-center py-10 md:py-16'>
-          <article className='md:mr-36'>
+      <div className='lg:grid'>
+        <div className='align-element flex flex-col lg:flex-row justify-center py-10 md:py-16'>
+          <article className='lg:mr-36'>
             <h1 className='text-neutral font-bold text-5xl md:text-6xl'>
             The shopping platform for global stores
             </h1>
-            <p className='my-7 text-lg'>
+            <p className='my-7 text-lg md:text-xl'>
               ShopWise helps thousands of people who globally in a single click. It's global shopping, payments and delivery in just one system.
             </p>
             <div className='flex gap-4'> 
@@ -64,7 +64,7 @@ const Landing = () => {
             <img src={map} alt="job hunt" className='' />
           </article>
         </div>
-        <div className='mx-auto lg:max-w-7xl 2xl:max-w-[1550px] max-w-[1550px] px-7'>
+        <div className='mx-auto md:max-w-[1200px] lg:max-w-7xl 2xl:max-w-[1550px] max-w-[1550px] py-7 md:py-3'>
           <Slider {...settings}>
             {images.map((image) => (
               <div key={image.id}>

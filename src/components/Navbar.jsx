@@ -5,7 +5,7 @@ import NavLinks from "./NavLinks";
 const Navbar = () => {
   return (
     <div className="bg-neutral text-neutral">
-      <div className="hidden md:flex py-6 items-center justify-between align-element">
+      <div className="hidden lg:flex py-6 items-center justify-between align-element">
         <div className="flex items-center">
           <div className="flex items-center gap-3 border border-white button-style text-base-100">
             <ImCart />

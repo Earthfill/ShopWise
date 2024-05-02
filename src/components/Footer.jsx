@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <div className="bg-black text-white p-10">
       <div className="font-bold text-3xl">ShopWise</div>
-      <div className="grid grid-cols-2 md:grid-cols-6 py-5">
+      <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 py-5">
         <div className="py-4">
           <div className="font-semibold">Platform</div>
           <div>Supported Stores</div>
