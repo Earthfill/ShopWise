@@ -1,11 +1,11 @@
-import lv from '../images/lv.png';
-import gucci from '../images/guc.webp';
-import land from '../images/land.png';
-import celine from '../images/celine.png';
-import newyork from '../images/newyork.webp';
-import rolex from '../images/rolea.webp';
-import people from '../images/people.webp';
-import dior from '../images/diorr.webp';
+import lv from '/lv.png';
+import gucci from '/guc.webp';
+import land from '/land.png';
+import celine from '/celine.png';
+import newyork from '/newyork.webp';
+import rolex from '/rolea.webp';
+import people from '/people.webp';
+import dior from '/diorr.webp';
 import { FaArrowRight } from 'react-icons/fa';
 
 const ThirdSection = () => {

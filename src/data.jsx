@@ -3,94 +3,94 @@ import { nanoid } from "nanoid";
 export const images = [
   {
     id: nanoid(),
-    logo: '/src/images/apple-logo.svg'
+    logo: '/apple-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/colgate-logo.svg'
+    logo: '/colgate-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/dolby-digital-logo.svg'
+    logo: '/dolby-digital-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/dove-logo.svg'
+    logo: '/dove-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/gillette-logo.svg'
+    logo: '/gillette-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/nestle-logo.svg'
+    logo: '/nestle-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/playstation-logo.svg'
+    logo: '/playstation-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/puma-logo.svg'
+    logo: '/puma-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/purina-logo.svg'
+    logo: '/purina-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/red-bull-logo.svg'
+    logo: '/red-bull-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/rolex-logo.svg'
+    logo: '/rolex-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/samsung-logo.svg'
+    logo: '/samsung-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/sandisk-logo.svg'
+    logo: '/sandisk-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/toyota-logo.svg'
+    logo: '/toyota-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/volkswagen-logo.svg'
+    logo: '/volkswagen-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/gucci-logo.svg'
+    logo: '/gucci-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/hills-logo.svg'
+    logo: '/hills-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/hp-logo.svg'
+    logo: '/hp-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/kobe-logo.svg'
+    logo: '/kobe-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/lays-logo.svg'
+    logo: '/lays-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/acer-logo.svg'
+    logo: '/acer-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/louis-vuitton-logo.svg'
+    logo: '/louis-vuitton-logo.svg'
   },
   {
     id: nanoid(),
-    logo: '/src/images/mercedes-benz-logo.svg'
+    logo: '/mercedes-benz-logo.svg'
   },
 ]

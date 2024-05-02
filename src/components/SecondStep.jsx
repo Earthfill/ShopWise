@@ -1,4 +1,4 @@
-import image from '../images/step2.svg';
+import image from '/step2.svg';
 
 const SecondStep = () => {
   return (

@@ -1,4 +1,4 @@
-import faq from '../images/faq.svg';
+import faq from '/faq.svg';
 
 const FifthSection = () => {
   return (

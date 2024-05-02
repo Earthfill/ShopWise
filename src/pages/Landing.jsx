@@ -1,5 +1,5 @@
 import { FaArrowRight } from 'react-icons/fa';
-import map from '../images/map.svg';
+import map from '/map.svg';
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
