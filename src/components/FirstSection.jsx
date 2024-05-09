@@ -51,7 +51,7 @@ const FirstSection = () => {
         <div className="bg-slate-700 rounded-md text-center font-bold py-4">
           <div className="text-2xl">Ready to Shop Globally?</div>
           <div className="flex justify-center my-5">
-            <a href="" className="flex items-center justify-center gap-1 text-base font-medium bg-primary text-info w-fit button-style"><IoExtensionPuzzle /> Get ShopWise Extension</a>
+            <div className="flex items-center justify-center gap-1 text-base font-medium bg-primary text-info w-fit button-style hover:bg-gray-200 cursor-pointer"><IoExtensionPuzzle /> Get ShopWise Extension</div>
           </div>
           <div className="text-xs mx-3">Note: Luxury stores are not in the extension. Please login for assistance.</div>
         </div>

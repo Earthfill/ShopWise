@@ -16,7 +16,7 @@ const ThirdSection = () => {
         <img src={gucci} alt="gucci" className='justify-self-center w-60' />
         <img src={land} alt="land" className='justify-self-end w-36' />
       </div>
-      <div className='grid grid-cols-1 md:grid md:grid-cols-3 h-96'>
+      <div className='grid grid-cols-1 md:grid-cols-3 h-96 md:mb-[70px] lg:mb-0'>
         <img src={celine} alt="celine" className='hidden md:block h-full' />
         <div className='flex flex-col items-center gap-7 mx-5'>
           <div>EMBRACE LUXURY SHOPPING</div>

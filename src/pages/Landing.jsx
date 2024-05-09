@@ -64,7 +64,7 @@ const Landing = () => {
             <img src={map} alt="job hunt" className='' />
           </article>
         </div>
-        <div className='mx-auto md:max-w-[1200px] lg:max-w-7xl 2xl:max-w-[1550px] max-w-[1550px] py-7 md:py-3'>
+        <div className='mx-auto md:max-w-[94vw] lg:max-w-[94vw] 2xl:max-w-[95vw] max-w-[84vw] py-7 md:py-3'>
           <Slider {...settings}>
             {images.map((image) => (
               <div key={image.id}>
